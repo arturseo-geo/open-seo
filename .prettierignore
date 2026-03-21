@@ -1,0 +1,10 @@
+**/build
+**/public
+pnpm-lock.yaml
+routeTree.gen.ts
+
+dist/
+drizzle/
+planning/
+worker-configuration.d.ts
+web/

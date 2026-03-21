@@ -1,0 +1,22 @@
+{
+  "entry": [
+    // Detect Tanstack Start Routes
+    "src/server.ts",
+    "src/router.tsx",
+    "src/routes/**/*.tsx",
+    // Drizzle config (plugin disabled due to cloudflare:workers import issues)
+    "drizzle.config.ts",
+    // DB index re-exports schema for convenience
+    "src/db/index.ts",
+  ],
+  "project": ["**/*.{js,mjs,ts,tsx}", "!src/routeTree.gen.ts", "!web/**"],
+  "ignore": ["drizzle-prod.config.ts"],
+  "ignoreBinaries": ["tsx"],
+  // Disable Drizzle plugin - it tries to load drizzle.config.ts which imports cloudflare:workers
+  "drizzle": false,
+  "ignoreDependencies": [
+    // Tailwindcss used via @tailwindcss/vite plugin
+    "tailwindcss",
+    "daisyui",
+  ],
+}

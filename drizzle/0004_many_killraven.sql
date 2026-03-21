@@ -1,0 +1,1 @@
+ALTER TABLE `llm_citations` ADD `sentiment` text DEFAULT 'neutral' NOT NULL;

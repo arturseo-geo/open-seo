@@ -1,0 +1,37 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "open-seo-landing",
+  "compatibility_date": "2026-02-19",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "@tanstack/react-start/server-entry",
+  "assets": {
+    "directory": "./dist/client",
+    "html_handling": "drop-trailing-slash",
+  },
+  "workers_dev": true,
+  "preview_urls": true,
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true,
+    },
+  },
+  "routes": [
+    {
+      "pattern": "openseo.so",
+      "custom_domain": true,
+    },
+    {
+      "pattern": "www.openseo.so",
+      "custom_domain": true,
+    },
+  ],
+  "env": {
+    "preview": {
+      "name": "open-seo-landing-preview",
+      "workers_dev": true,
+      "preview_urls": true,
+    },
+  },
+}
