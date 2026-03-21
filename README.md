@@ -53,16 +53,17 @@ Top priorities:
 - Rank tracking
 - AI content workflows
 
-If something important is missing, please join the [Discord](https://discord.gg/c9uGs3cFXr) or email me at ben@everyapp.dev and request it.
+If something important is missing, please join the [Discord](https://discord.gg/c9uGs3cFXr) or open an [issue](https://github.com/arturseo-geo/open-seo/issues) and request it.
 
 ## Community
 
-Email me: ben@everyapp.dev
+Open an issue: [github.com/arturseo-geo/open-seo/issues](https://github.com/arturseo-geo/open-seo/issues)
 Join Discord to chat: [Discord](https://discord.gg/c9uGs3cFXr)
 
 Follow along for updates:
 
-- [r/everyapp](https://www.reddit.com/r/everyapp/)
+- [r/everyapp](https://www.reddit.com/r/everyapp/) (original community)
+- [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab)
 - On X: https://x.com/bensenescu
 
 ## Pricing / Costs
