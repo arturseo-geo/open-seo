@@ -1,5 +1,14 @@
 # OpenSEO
 
+> Maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
+> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+
+[![Version](https://img.shields.io/badge/version-0.0.3-blue)](https://github.com/arturseo-geo/open-seo)
+[![Licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/arturseo-geo/open-seo/pulls)
+
+> **Originally created by [Every App](https://github.com/every-app/open-seo) (MIT License).** This fork is maintained independently.
+
 OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.
 
 ![OpenSEO demo (placeholder)](https://github.com/user-attachments/assets/6a928771-66ff-486b-b131-a54a3943985f)
