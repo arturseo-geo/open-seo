@@ -1,13 +1,14 @@
 # OpenSEO
 
-> Maintained by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
-
 [![Version](https://img.shields.io/badge/version-0.0.3-blue)](https://github.com/arturseo-geo/open-seo)
 [![Licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/arturseo-geo/open-seo/pulls)
 
+**Author:** [Artur Seo](https://github.com/arturseo-geo) | [Twitter](https://twitter.com/stickerdaniel) | [LinkedIn](https://www.linkedin.com/in/artur-seo/) | [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
+
 > **Originally created by [Every App](https://github.com/every-app/open-seo) (MIT License).** This fork is maintained independently.
+
+---
 
 OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too expensive or bloated, OpenSEO is a pay-as-you-go alternative that you actually control.
 
@@ -63,7 +64,7 @@ Join Discord to chat: [Discord](https://discord.gg/c9uGs3cFXr)
 Follow along for updates:
 
 - [r/everyapp](https://www.reddit.com/r/everyapp/) (original community)
-- [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab)
+- [Twitter @TheGEO_Lab](https://twitter.com/TheGEO_Lab)
 - On X: https://x.com/bensenescu
 
 ## Pricing / Costs
@@ -242,7 +243,7 @@ If you want to contribute but are unsure where to start, open an issue and descr
 
 Use this section to estimate DataForSEO spend per request type. OpenSEO itself remains free; these are API usage costs only.
 
-As of February 26, 2026, DataForSEO’s public docs/pricing pages say:
+As of February 26, 2026, DataForSEO's public docs/pricing pages say:
 
 - New accounts include **$1 free credit** to test the API.
 - The minimum top-up/payment is **$50**.
@@ -290,3 +291,7 @@ That means you can try OpenSEO for free with the starter credit, then decide if/
 - 100 backlinks page searches at current defaults before opening extra tabs: about `$4.30`
 - 100 fully explored backlinks domain searches: about `$12.98`
 - 100 fully explored backlinks page searches: about `$8.61`
+
+---
+
+**Made by [Artur Seo](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [Twitter](https://twitter.com/stickerdaniel) • [LinkedIn](https://www.linkedin.com/in/artur-seo/) • [Reddit](https://www.reddit.com/r/u_stickerdaniel/)
