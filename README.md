@@ -4,8 +4,7 @@
 [![Licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/arturseo-geo/open-seo/pulls)
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **[The GEO Lab](https://thegeolab.net)**
-> [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** · **[thegeolab.net](https://thegeolab.net)** · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 > **Originally created by [Every App](https://github.com/every-app/open-seo) (MIT License).** This fork is maintained independently.
 
@@ -295,4 +294,4 @@ That means you can try OpenSEO for free with the starter credit, then decide if/
 
 ---
 
-**Made by [Artur Ferreira](https://github.com/arturseo-geo)** • [GitHub](https://github.com/arturseo-geo) • [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) • [LinkedIn](https://linkedin.com/in/arturgeo) • [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+**Made by [Artur Ferreira](https://github.com/arturseo-geo)** · **[thegeolab.net](https://thegeolab.net)** · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
