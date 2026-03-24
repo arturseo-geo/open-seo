@@ -4,7 +4,7 @@
 [![Licence](https://img.shields.io/badge/licence-MIT-green)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](https://github.com/arturseo-geo/open-seo/pulls)
 
-> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** · **[thegeolab.net](https://thegeolab.net)** · [𝕏 @TheGEO_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
+> Built by **[Artur Ferreira](https://github.com/arturseo-geo)** @ **The GEO Lab** · [𝕏 @TheGEO\_Lab](https://x.com/TheGEO_Lab) · [LinkedIn](https://linkedin.com/in/arturgeo) · [Reddit](https://www.reddit.com/user/Alternative_Teach_74/)
 
 > **Originally created by [Every App](https://github.com/every-app/open-seo) (MIT License).** This fork is maintained independently.
 
@@ -35,6 +35,7 @@ OpenSEO is an SEO tool for _the people_. If tools like Semrush or Ahrefs are too
 - No subscriptions.
 - Focused workflows instead of a giant, complex SEO suite.
 - AI-native: use your own tools like Claude Code / Cowork for more powerful AI features than other platforms provide.
+- ✅ **Production-tested** — self-hosted instance running at **[thegeolab.net](https://thegeolab.net)**
 
 ## Main SEO Workflows
 
